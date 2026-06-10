@@ -1,88 +1,90 @@
-# Quiz App
+# 🎯 Quiz App
 
-A responsive and interactive Quiz Application built with HTML, CSS, and JavaScript. Users can choose quiz categories, select the number of questions, answer multiple-choice questions, and view their final score.
+A responsive and interactive Quiz Application built using HTML, CSS, and JavaScript. Users can select a quiz category, choose the number of questions, answer multiple-choice questions, and view their final score at the end.
 
-## Features
+---
 
-Multiple quiz categories (Programming, Geography, Mathematics, Entertainment)
+## 🚀 Features
 
-Choose the number of questions
+- 📚 Multiple Quiz Categories
+  - Programming
+  - Geography
+  - Mathematics
+  - Entertainment
 
-Real-time countdown timer
+- 🔢 Choose the Number of Questions
+- ⏱️ Real-Time Countdown Timer
+- ✅ Instant Answer Feedback
+- 📊 Final Score Summary
+- 📱 Fully Responsive Design
+- 🔄 Restart Quiz Option
 
-Instant answer feedback (correct/incorrect)
+---
 
-Final result screen with score summary
+## 🛠️ Technologies Used
 
-Responsive design for desktop and mobile devices
+- HTML5
+- CSS3
+- JavaScript (ES5)
 
-## Technologies Used
+---
 
-HTML5
+## 📂 Project Structure
 
-CSS3
-
-JavaScript (ES6)# Quiz App
-
-A responsive and interactive Quiz Application built with HTML, CSS, and JavaScript. Users can choose quiz categories, select the number of questions, answer multiple-choice questions, and view their final score.
-
-## Features
-
-Multiple quiz categories (Programming, Geography, Mathematics, Entertainment)
-
-Choose the number of questions
-
-Real-time countdown timer
-
-Instant answer feedback (correct/incorrect)
-
-Final result screen with score summary
-
-Responsive design for desktop and mobile devices
-
-## Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript (ES5)
-
-## Project Structure
-
-Digital-Clock/
-
+```text
+Quiz-App/
+│
 ├── Quiz.html
-
 ├── Quiz.css
-
+│
 ├── javascript/
-
-│ ├── Quiz.js
-
-│ └── questions.js
-
+│   ├── Quiz.js
+│   └── questions.js
+│
 ├── image/
-
-│ └── quiz-over.png
-
+│   └── quiz-over.png
+│
 └── README.md
+```
 
+---
 
-## Future Improvements
+## 🎮 How to Run the Project
 
-Add more quiz categories and questions
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/divyanshugupta72688/quiz-app.git
+   ```
 
-Store high scores using Local Storage
+2. Open the project folder.
 
-Add sound effects and animations
+3. Double-click **Quiz.html** or open it in any web browser.
 
-Support for online API-based quizzes
+4. Select a category and start playing the quiz.
 
-## Author
+---
 
-Divyanshu Gupta
+## 🔮 Future Improvements
 
-## License
+- Add more quiz categories
+- Increase question database
+- Store high scores using Local Storage
+- Add sound effects and animations
+- Integrate online quiz APIs
+- Add difficulty levels
+
+---
+
+## 👨‍💻 Author
+
+**Divyanshu Gupta**
+
+GitHub: https://github.com/divyanshugupta72688
+
+---
+
+## 📄 License
 
 This project is open-source and available for learning and educational purposes.
+
+⭐ If you like this project, don't forget to star the repository.
