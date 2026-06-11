@@ -3,6 +3,8 @@
 A responsive and interactive Quiz Application built using HTML, CSS, and JavaScript. Users can select a quiz category, choose the number of questions, answer multiple-choice questions, and view their final score at the end.
 
 ---
+##Live Demo
+ click at  https://divyanshugupta72688.github.io/quiz-app-javascript/
 
 ## 🚀 Features
 
